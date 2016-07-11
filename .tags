@@ -1,0 +1,70 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+com.testrn	/Users/unbug/WebSpace/lab/testRn/android/app/src/main/java/com/testrn/MainActivity.java	/^package com.testrn;$/;"	package	line:1
+MainActivity	/Users/unbug/WebSpace/lab/testRn/android/app/src/main/java/com/testrn/MainActivity.java	/^public class MainActivity extends ReactActivity {$/;"	class	line:10
+getMainComponentName	/Users/unbug/WebSpace/lab/testRn/android/app/src/main/java/com/testrn/MainActivity.java	/^    protected String getMainComponentName() {$/;"	method	line:17	class:MainActivity	signature:()
+getUseDeveloperSupport	/Users/unbug/WebSpace/lab/testRn/android/app/src/main/java/com/testrn/MainActivity.java	/^    protected boolean getUseDeveloperSupport() {$/;"	method	line:26	class:MainActivity	signature:()
+getPackages	/Users/unbug/WebSpace/lab/testRn/android/app/src/main/java/com/testrn/MainActivity.java	/^    protected List<ReactPackage> getPackages() {$/;"	method	line:35	class:MainActivity	signature:()
+warn	/Users/unbug/WebSpace/lab/testRn/android/gradlew	/^warn ( ) {$/;"	function	line:18
+die	/Users/unbug/WebSpace/lab/testRn/android/gradlew	/^die ( ) {$/;"	function	line:22
+splitJvmOpts	/Users/unbug/WebSpace/lab/testRn/android/gradlew	/^function splitJvmOpts() {$/;"	function	line:158
+DEFAULT_JVM_OPTS	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	variable	line:12
+DIRNAME	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set DIRNAME=%~dp0$/;"	variable	line:14
+DIRNAME	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	variable	line:15
+APP_BASE_NAME	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	variable	line:16
+APP_HOME	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	variable	line:17
+JAVA_EXE	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set JAVA_EXE=java.exe$/;"	variable	line:22
+findJavaFromJavaHome	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:findJavaFromJavaHome$/;"	label	line:34
+JAVA_HOME	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	variable	line:35
+JAVA_EXE	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	variable	line:36
+init	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:init$/;"	label	line:48
+win9xME_args	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:win9xME_args$/;"	label	line:54
+CMD_LINE_ARGS	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set CMD_LINE_ARGS=$/;"	variable	line:56
+_SKIP	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set _SKIP=2$/;"	variable	line:57
+win9xME_args_slurp	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:win9xME_args_slurp$/;"	label	line:59
+CMD_LINE_ARGS	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	variable	line:62
+4NT_args	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:4NT_args$/;"	label	line:65
+CMD_LINE_ARGS	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set CMD_LINE_ARGS=%\$$/;"	variable	line:67
+execute	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:execute$/;"	label	line:69
+CLASSPATH	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	variable	line:72
+end	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:end$/;"	label	line:77
+fail	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:fail$/;"	label	line:81
+mainEnd	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:mainEnd$/;"	label	line:87
+omega	/Users/unbug/WebSpace/lab/testRn/android/gradlew.bat	/^:omega$/;"	label	line:90
+render	/Users/unbug/WebSpace/lab/testRn/index.android.js	/^  render() {$/;"	function	line:16
+render	/Users/unbug/WebSpace/lab/testRn/index.ios.js	/^  render() {$/;"	function	line:16
+window	/Users/unbug/WebSpace/lab/testRn/ios/testRn/AppDelegate.h	/^@property (nonatomic, strong) UIWindow *window;$/;"	variable	line:14
+images	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^  "images" : [$/;"	function	line:2
+idiom	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	function	line:4
+size	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	function	line:5
+scale	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	function	line:6
+idiom	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	function	line:9
+size	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "29x29",$/;"	function	line:10
+scale	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	function	line:11
+idiom	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	function	line:14
+size	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	function	line:15
+scale	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	function	line:16
+idiom	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	function	line:19
+size	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "40x40",$/;"	function	line:20
+scale	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	function	line:21
+idiom	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	function	line:24
+size	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "60x60",$/;"	function	line:25
+scale	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "2x"$/;"	function	line:26
+idiom	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "iphone",$/;"	function	line:29
+size	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "size" : "60x60",$/;"	function	line:30
+scale	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^      "scale" : "3x"$/;"	function	line:31
+info	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^  "info" : {$/;"	function	line:34
+version	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^    "version" : 1,$/;"	function	line:35
+author	/Users/unbug/WebSpace/lab/testRn/ios/testRn/Images.xcassets/AppIcon.appiconset/Contents.json	/^    "author" : "xcode"$/;"	function	line:36
+name	/Users/unbug/WebSpace/lab/testRn/package.json	/^  "name": "testRn",$/;"	function	line:2
+version	/Users/unbug/WebSpace/lab/testRn/package.json	/^  "version": "0.0.1",$/;"	function	line:3
+private	/Users/unbug/WebSpace/lab/testRn/package.json	/^  "private": true,$/;"	function	line:4
+scripts	/Users/unbug/WebSpace/lab/testRn/package.json	/^  "scripts": {$/;"	function	line:5
+start	/Users/unbug/WebSpace/lab/testRn/package.json	/^    "start": "node node_modules\/react-native\/local-cli\/cli.js start"$/;"	function	line:6
+dependencies	/Users/unbug/WebSpace/lab/testRn/package.json	/^  "dependencies": {$/;"	function	line:8
+react	/Users/unbug/WebSpace/lab/testRn/package.json	/^    "react": "15.1.0",$/;"	function	line:9
+react-native	/Users/unbug/WebSpace/lab/testRn/package.json	/^    "react-native": "0.28.0"$/;"	function	line:10
